@@ -3,6 +3,8 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalacao">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>
 </p>
 
@@ -23,10 +25,10 @@ O projeto é um site desktop para montar planos de viagem com amigos, registrar 
 ## ⚙ Instalação
 
 1. Clone este repositório:
-    <pre><code>git clone https://github.com/igormatheusf/projeto-react-trip-planner</code></pre>
+    <pre><code>git clone https://github.com/igormatheusf/projeto-reactjs-trip-planner</code></pre>
 
 2. Navegue até o diretório do projeto:
-    <pre><code>cd planner-app</code></pre>
+    <pre><code>cd projeto-reactjs-trip-planner</code></pre>
 
 3. Instale as dependências:
     <pre><code>npm install</code></pre>
