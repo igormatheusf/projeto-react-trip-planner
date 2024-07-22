@@ -37,7 +37,7 @@ O projeto é um site desktop para montar planos de viagem com amigos, registrar 
     <pre><code>npm run dev</code></pre>
 
 
-##  Backend
+## 🗄 Backend
 
 O repositório do backend está disponível em:
     <pre><code>https://github.com/rocketseat-education/nlw-journey-nodejs</code></pre>
