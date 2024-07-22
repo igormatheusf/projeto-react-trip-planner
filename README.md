@@ -12,7 +12,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- React
+- ReactJS
 - TypeScript
 - Tailwind CSS
 
@@ -23,7 +23,7 @@ O projeto é um site desktop para montar planos de viagem com amigos, registrar 
 ## ⚙ Instalação
 
 1. Clone este repositório:
-<pre><code>git clone https://github.com/igormatheusf/projeto-react-trip-planner</code></pre>
+    <pre><code>git clone https://github.com/igormatheusf/projeto-react-trip-planner</code></pre>
 
 2. Navegue até o diretório do projeto:
     <pre><code>cd planner-app</code></pre>
