@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalacao">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>
 </p>
@@ -37,7 +37,7 @@ O projeto é um site desktop para montar planos de viagem com amigos, registrar 
     <pre><code>npm run dev</code></pre>
 
 
-## Backend
+##  Backend
 
 O repositório do backend está disponível em:
     <pre><code>https://github.com/rocketseat-education/nlw-journey-nodejs</code></pre>
