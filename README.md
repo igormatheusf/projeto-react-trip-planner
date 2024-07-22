@@ -20,6 +20,26 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto é um site desktop para montar planos de viagem com amigos, registrar atividades e links úteis.
 
+## ⚙ Instalação
+
+1. Clone este repositório:
+<pre><code>git clone https://github.com/igormatheusf/projeto-react-trip-planner</code></pre>
+
+2. Navegue até o diretório do projeto:
+    <pre><code>cd planner-app</code></pre>
+
+3. Instale as dependências:
+    <pre><code>npm install</code></pre>
+
+4. Inicie o servidor de desenvolvimento:
+    <pre><code>npm run dev</code></pre>
+
+
+## Backend
+
+O repositório do backend está disponível em:
+    <pre><code>https://github.com/rocketseat-education/nlw-journey-nodejs</code></pre>
+
 
 ## 🔖 Layout
 
